@@ -854,12 +854,6 @@ timeline
 
 <br/>
 
-## ✦ Repository and Links
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-i--Anurag1%2FFintoran-181717?style=for-the-badge&logo=github)](https://github.com/i-Anurag1/Fintoran)
-[![Live App](https://img.shields.io/badge/Live_App-fintoranagent.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://fintoranagent.streamlit.app/)
 
 </div>
 
