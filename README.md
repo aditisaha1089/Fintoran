@@ -18,9 +18,9 @@
 
 <br>
 
-**[Live Demo](https://fintoranagent.streamlit.app/)**
+**[Live Demo](https://fintoranai.streamlit.app/)**
 &nbsp;&nbsp;|&nbsp;&nbsp;
-**[GitHub Repository](https://github.com/i-Anurag1/Fintoran)**
+**[GitHub Repository](https://github.com/aditisaha1089/Fintoran)**
 
 <br>
 
@@ -1220,8 +1220,8 @@ UNDERSTAND
 
 <br>
 
-[Live Demo](https://fintoranagent.streamlit.app/)
+[Live Demo](https://fintoranai.streamlit.app/)
   ·  
-[Source Code](https://github.com/i-Anurag1/Fintoran)
+[Source Code](https://github.com/aditisaha1089/Fintoran)
 
 </div>
